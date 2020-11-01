@@ -7,4 +7,4 @@ Para compilar, ejecutar este comando:
 
 Créditos:
 
-Gael API (API que provee los datos en JSON): https://api.gael.cl/general/public/sismos"
+Gael API (API que provee los datos en JSON): https://api.gael.cl/general/public/sismos
